@@ -14,3 +14,10 @@ body{
 .titulo span{
     font-size: 2rem;
 }
+
+.hero{
+    background-image: url(/proyects/developer_page_7SA/img/hero.jpg);
+    background-repeat: no-repeat;
+    /*cover cubre la imagen con todo el tamaño posible*/
+    background-size: cover;
+}

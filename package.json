@@ -2,9 +2,10 @@
   "name": "progweb",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "page.js",
+  "type": "module",
   "scripts": {
-    "dev": "node index.js",
+    "dev": "node proyectMovie/app/page.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
